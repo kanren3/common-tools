@@ -22,7 +22,6 @@
 * Scylla
 * Resource Hacker
 * API Monitor
-* DbgView
 * Explorer Suite
 * Cerbero Suite
 * Netch
@@ -30,6 +29,7 @@
 * Sysinternals
   * Rammap
   * ProcessMonitor
+  * DbgView
 * qBittorrent Enhanced Edition
 * Asset Studio
 * DiskGenius
@@ -46,3 +46,7 @@
 * Python3.9.5
 * Git
 * LLVM
+* Hwinfo
+* WmiExplorer
+* ZydisInfo
+* KmdManager
