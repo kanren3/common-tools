@@ -25,28 +25,70 @@
 * Explorer Suite
 * Cerbero Suite
 * Netch
-* Clash Verge
+* Clash Party
 * Sysinternals
   * Rammap
   * ProcessMonitor
+  * ProcessExplorer
   * DbgView
+  * Procdump
+  * Coreinfo
 * qBittorrent Enhanced Edition
 * Asset Studio
 * DiskGenius
 * CPUZ
+* GPUZ
 * Everything
 * MacType
 * Garbro
 * Sokit
 * WinObjEx
 * WizTree
-* PCHunter
+* PYARK
 * OpenHashTab
 * Gdb
-* Python3.9.5
-* Git
+* Python 3.13.5
+* Git Bash
 * LLVM
 * Hwinfo
 * WmiExplorer
 * ZydisInfo
 * KmdManager
+* UU远程
+* MuMu模拟器
+* SumatraPDF
+* STranslate
+* Typora
+* Xmake
+* Steam
+* WeGame
+* Razer Synapse
+* Logitech G Hub
+* Intel System Debugger
+* 010Editor
+* Malcat
+* Aida64
+* COMView
+* oleviewdotnet
+* Foobar2000
+* WinHTTrack
+* IASL
+* JADX
+* MTuner
+* PacketSender
+* RWEverything
+* SQLiteDatabaseBrowser
+* SpyStudio
+* WPR (XPERF)
+* LatencyMon
+* ShadowCopyView
+* WFPExp
+* Coreinfo
+* CrystalDiskInfo
+* FFdec
+* FModel
+* PCL2
+* pdf2zh
+* SubtitleEdit
+* FlashPlayer
+* CefFlashBrowser
